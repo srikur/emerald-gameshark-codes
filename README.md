@@ -1,2 +1,2 @@
-# emerald-gameshark-codes
+# Pkmn Emerald GameShark Codes
 A series of boutique GameShark codes for Pokemon Emerald
